@@ -5,8 +5,11 @@ Kurulum;
 1) Öncelikle Şu Modülleri İndiriyoruz
 
 pip install SpeechRecognition
+
 pip install gTTS
+
 pip install playsound==1.2.2
+
 
 2) Sonrasında sesliasistan.py yi Masaüstüne Atıyoruz.
 
