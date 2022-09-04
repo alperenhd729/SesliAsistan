@@ -3,6 +3,7 @@ Python İle Yapılmış Sesli Asistan.
 
 Kurulum;
 1) Öncelikle Şu Modülleri İndiriyoruz
+
 pip install SpeechRecognition
 pip install gTTS
 pip install playsound==1.2.2
@@ -20,6 +21,7 @@ Ve işlem bu kadar sesli asistanınız hazır eğer ilgi görürse geliştirmeye
 ErenVortex#6928
 
 Güncelleme 1 (04/09/2022);
+
 UnknownValueError Hatası Çözüldü.
 
 Sesin Gecikmesi Sorunu Çözüldü.
