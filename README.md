@@ -18,3 +18,12 @@ Ve işlem bu kadar sesli asistanınız hazır eğer ilgi görürse geliştirmeye
 Çözemediğiniz, anlamadığınız veya yapamadığınız bir hata vs. olursa discord adresim aşağıda bulunmaktadır.
 
 ErenVortex#6928
+
+Güncelleme 1 (04/09/2022);
+UnknownValueError Hatası Çözüldü.
+
+Sesin Gecikmesi Sorunu Çözüldü.
+
+Oluşan Ses Dosyasının Silinmeme Sorunu Çözüldü.
+
+Ses Kalitesi ve Hızı İyileştirildi.
